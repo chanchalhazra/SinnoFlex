@@ -47,6 +47,8 @@ html {
 
 body {
   margin: 0;
+  background: #F9F5ee;
+  color:#9A7A42;
 }
 
 a {
@@ -308,8 +310,8 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.428571429;
-  color: #333333;
-  background-color: #ffffff;
+  color: #9A7A42;
+  background-color: #F9F5ee;
 }
 
 input,
@@ -3487,7 +3489,7 @@ input[type="button"].btn-block {
   margin: 2px 0 0;
   font-size: 14px;
   list-style: none;
-  background-color: #ffffff;
+  background-color: #F9F5EE;
   border: 1px solid #cccccc;
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 4px;
@@ -3514,7 +3516,7 @@ input[type="button"].btn-block {
   clear: both;
   font-weight: normal;
   line-height: 1.428571429;
-  color: #333333;
+  color: #C09853;
   white-space: nowrap;
 }
 
@@ -4346,7 +4348,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 @media (min-width: 768px) {
   .navbar {
-    border-radius: 4px;
+    border-radius: 0px;
   }
 }
 
@@ -4756,12 +4758,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a .caret,
 .navbar-default .navbar-nav > .open > a:hover .caret,
 .navbar-default .navbar-nav > .open > a:focus .caret {
-  border-top-color: #555555;
+  border-top-color: #F9F5EE;
   border-bottom-color: #555555;
 }
 
 .navbar-default .navbar-nav > .dropdown > a .caret {
-  border-top-color: #777777;
+  border-top-color: #F9F5EE;
   border-bottom-color: #777777;
 }
 
@@ -4798,8 +4800,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-inverse {
  // background-color: #222222;
- background-color: #c09853;
-  border-color: #080808;
+ background-color: #C09853;
+  border-color: #C09853;
 }
 
 .navbar-inverse .navbar-brand {
@@ -4819,7 +4821,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-inverse .navbar-nav > li > a {
  //color: #999999;
- color:  #000000;
+ color:  #F9F5ee;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover,
@@ -4832,7 +4834,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #080808;
+  background-color: #9A7A42;
 }
 
 .navbar-inverse .navbar-nav > .disabled > a,
@@ -4864,7 +4866,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
   color: #ffffff;
-  background-color: #080808;
+  background-color: #9A7A42;
 }
 
 .navbar-inverse .navbar-nav > .dropdown > a:hover .caret {
@@ -4900,7 +4902,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #ffffff;
-    background-color: #080808;
+    background-color: #9A7A42;
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a,
   .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:hover,
@@ -6444,7 +6446,7 @@ button.close {
   left: 0;
   width: 15%;
   font-size: 20px;
-  color: #ffffff;
+  color: #F9F5EE;
   text-align: center;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
   opacity: 0.5;
@@ -6473,7 +6475,7 @@ button.close {
 
 .carousel-control:hover,
 .carousel-control:focus {
-  color: #ffffff;
+  color: #F9F5EE;
   text-decoration: none;
   opacity: 0.9;
   filter: alpha(opacity=90);
@@ -6518,7 +6520,7 @@ button.close {
 
 .carousel-indicators {
   position: absolute;
-  bottom: 10px;
+  bottom: 5px;
   left: 50%;
   z-index: 15;
   width: 60%;
@@ -6537,7 +6539,7 @@ button.close {
   cursor: pointer;
   background-color: #000 \9;
   background-color: rgba(0, 0, 0, 0);
-  border: 1px solid #ffffff;
+  border: 1px solid #F9F5EE;
   border-radius: 10px;
 }
 
@@ -6545,7 +6547,7 @@ button.close {
   width: 12px;
   height: 12px;
   margin: 0;
-  background-color: #ffffff;
+  background-color: #F9F5EE;
 }
 
 .carousel-caption {
@@ -6556,7 +6558,7 @@ button.close {
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
-  color: #ffffff;
+  color: #F9F5EE;
   text-align: center;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
