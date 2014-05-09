@@ -118,7 +118,10 @@
       <div class="row">
       
         <div class="col-lg-12">
-          <h1 class="page-header"><small>We'd Love to Hear From You!</small></h1>
+            <h1 class="page-header"><small>We'd Love to Hear From You! </small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <small><i class="fa fa-phone"></i> <abbr title="Phone">P</abbr>: (925) 833-1148</small>&nbsp;&nbsp;&nbsp;
+                <small> <i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>: <a href="mailto:info@sinnoflex.com">info@sinnoflex.com</a></small></h1>
+          
           <ol class="breadcrumb">
             <li><a href="../index.html">Home</a></li>
             <li class="active">Contact</li>
@@ -127,7 +130,7 @@
         
         <div class="col-lg-12">
           <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
-          <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3153.6562779695305!2d-121.90100700000063!3d37.77465697334819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1399670080596" width="100%" height="400px" frameborder="0" style="border:0"></iframe>
         </div>
 
       </div><!-- /.row -->
@@ -202,7 +205,7 @@
 
         <hr style="background-color:#c09853; height: 1px; ">
 
-      <footer style="background-color:  #c09853;">
+      <footer style="background-color:  #c09853;color:#F9F5EE"">
           <div class="row" style="padding: 10px;">
           <div class="col-lg-12">
             <p>Copyright &copy; SinnoFlex 2013</p>
