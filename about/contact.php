@@ -27,22 +27,22 @@
 
   <body>
  	 <div id="header1" style=" height: 65px;width:auto;margin: 0" >
-          <div style=" float:left ;height: 50px;width: 900px;margin: 0;">
+          <div style=" float:left ;height: 60px;width: auto;margin: 0;">
             <a id="SinnoflexLogo" href="./" >
            <!img src="assets/logo4.png" alt="SinnoFlex" style="float: left;width: 80px; height: 60px"/></a>
-              <h1 style="color: #c09853; margin-left: 50px;">SinnoFlex</h1>
-              <h5 style="color: #c09853">We innovate simple and flexible solutions for our customers.</h5>
+              <a href="../index.html"> <h1 style="color: #C09853; margin-left: 50px;">SinnoFlex</h1></a>
+              <h5 style="color: #c09853">..inspired by simplicity innovation and flexibility</h5>
           </div>
-          <div style=" height: 40px;float: left;margin-top:10px; ">
-              <a id="siteheadercontent_0_rptrHeaderMenu_lnkHeaderMenuItem_0" href="about.html" style="color: #c09853;">About</a>
+            
+          <div style=" height: 50px;float: right;margin-top:10px;margin-right: 100px;width:auto ">
+              <a id="siteheadercontent_0_rptrHeaderMenu_lnkHeaderMenuItem_0" href="about.html" style="color: #C09853;">About</a>
             <span id="siteheadercontent_0_rptrHeaderMenu_lblLinkSeparator_1">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-            <a id="siteheadercontent_0_rptrHeaderMenu_lnkHeaderMenuItem_1" href="career.html" style="color: #c09853;">Careers</a>
+            <a id="siteheadercontent_0_rptrHeaderMenu_lnkHeaderMenuItem_1" href="career.html" style="color: #C09853;">Careers</a>
             <span id="siteheadercontent_0_rptrHeaderMenu_lblLinkSeparator_3">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
             <a id="siteheadercontent_0_rptrHeaderMenu_lnkHeaderMenuItem_3" href="contact.php" style="color: #c09853;">Contact</a>
-                
-          </div>
-	    
-   </div>			
+            
+            </div>
+          </div>			
 
     <nav class="navbar navbar-inverse" role="navigation">
       <div class="container">
@@ -60,32 +60,43 @@
          
           
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
+       <div class="collapse navbar-collapse navbar-ex1-collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="../services.html">Services</a></li>
+            <li><a href="services.html">Services</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Business Solutions<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="../services/BI.html">Business Intelligence</a></li>
-                <li><a href="../services/CRM.html">Customer Relationship Management</a></li>
-                <li><a href="../services/ERP.html">Enterprise Resource Planning</a></li>
+                <li><a href="../services/BusinessSolution.html">Business Intelligence</a></li>
+                <li><a href="../services/BusinessSolution.html">Customer Relationship Management</a></li>
+                <li><a href="../services/BusinessSolution.html">Enterprise Resource Planning</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology Services<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="../services/WebApps.html">Web Application Development</a></li>
-                <li><a href="../services/MobileApps.html">Mobile Application Development</a></li>
-                <li><a href="../services/CustomApps.html">Custom Application Development</a></li>
+                <li><a href="../services/TechnologyServices.html">Web Application Development</a></li>
+                <li><a href="../services/TechnologyServices.html">Mobile Application Development</a></li>
+                <li><a href="../services/TechnologyServices.html">Custom Application Development</a></li>
+              </ul>
+            </li>
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Staff Augmentation<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="../services/StaffAugmentation.html">Staff Augmentation</a></li>
+                <li><a href="../services/StaffAugmentation.html">Offshore Staffing</a></li>
+                <li><a href="../services/StaffAugmentation.html">Build Operate and Transfer Offshore Center</a></li>
               </ul>
             </li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industry News <b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Company <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="../latestTrend.html">Latest Trends</a></li>
-                <li><a href="../blog.html">Blog</a></li>
-                <li><a href="../faq.html">FAQ</a></li>
-              </ul>
+                <li><a href="about.html">Overview</a></li>
+                <li><a href="management.html">Management Team</a></li>
+                <li><a href="partner.html">Partners</a></li>
+                <li><a href="career.html">Career</a></li>
+                <li><a href="news.html">News and Events</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                </ul>
             </li>
           </ul>
         </div><!-- /.navbar-collapse -->
