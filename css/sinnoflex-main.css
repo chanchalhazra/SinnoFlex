@@ -56,6 +56,9 @@ body {
 /* Half Page Height Carousel Customization */
 .carousel {
   height: 50%;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .item,
