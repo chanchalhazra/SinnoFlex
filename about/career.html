@@ -21,7 +21,7 @@
 
     <!-- Add custom CSS here -->
     <link href="../css/sinnoflex-main.css" rel="stylesheet">
-    <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="../font-awesome-b/css/font-awesome.min.css" rel="stylesheet">
     
   </head>
 
