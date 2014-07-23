@@ -62,40 +62,39 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
        <div class="collapse navbar-collapse navbar-ex1-collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="services.html">Services</a></li>
+              <li><a href="../services.html">Services</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Business Solutions<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="../services/BusinessSolution.html">Business Intelligence</a></li>
-                <li><a href="../services/BusinessSolution.html">Customer Relationship Management</a></li>
-                <li><a href="../services/BusinessSolution.html">Enterprise Resource Planning</a></li>
+                <li><a href="../services/BusinessSolution.html#BI">Business Intelligence</a></li>
+                <li><a href="../services/BusinessSolution.html#CRM">Customer Relationship Management</a></li>
+                <li><a href="../services/BusinessSolution.html#ERP">Enterprise Resource Planning</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology Services<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="../services/TechnologyServices.html">Web Application Development</a></li>
-                <li><a href="../services/TechnologyServices.html">Mobile Application Development</a></li>
-                <li><a href="../services/TechnologyServices.html">Custom Application Development</a></li>
+                <li><a href="../services/TechnologyServices.html#WEBAPP">Web Application Development</a></li>
+                <li><a href="../services/TechnologyServices.html#MOBILE">Mobile Application Development</a></li>
+                <li><a href="../services/TechnologyServices.html#CUSTOM">Custom Application Development</a></li>
               </ul>
             </li>
              <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Staff Augmentation<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="../services/StaffAugmentation.html">Staff Augmentation</a></li>
-                <li><a href="../services/StaffAugmentation.html">Offshore Staffing</a></li>
-                <li><a href="../services/StaffAugmentation.html">Build Operate and Transfer Offshore Center</a></li>
+                <li><a href="../services/StaffAugmentation.html#STAFF">Staff Augmentation</a></li>
+                <li><a href="../services/StaffAugmentation.html#OFFSHORE">Offshore Staffing</a></li>
+                <li><a href="../services/StaffAugmentation.html#BOT">Build Operate and Transfer Offshore Center</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Company <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="about.html">Overview</a></li>
-                <li><a href="management.html">Management Team</a></li>
-                <li><a href="partner.html">Partners</a></li>
+                <li><a href="about.html#management">Management Team</a></li>
+                 <li><a href="about.html#customer">Customers</a></li>
+                <li><a href="about.html#partner">Partners</a></li>
                 <li><a href="career.html">Career</a></li>
-                <li><a href="news.html">News and Events</a></li>
-                <li><a href="blog.html">Blog</a></li>
                 </ul>
             </li>
           </ul>
@@ -212,14 +211,20 @@
 
     </div><!-- /.container -->
 
-    <div class="container-footer" >
+   <div class="container-footer" >
 
         <hr style="background-color:#c09853; height: 1px; ">
 
-      <footer style="background-color:  #c09853;color:#F9F5EE"">
+      <footer style="background-color:  #c09853;color:#F9F5EE">
           <div class="row" style="padding: 10px;">
-          <div class="col-lg-12">
+          <div class="col-lg-4">
+            <p></p>
+          </div>
+              <div class="col-lg-4">
             <p>Copyright &copy; SinnoFlex 2013</p>
+          </div>
+              <div class="col-lg-4">
+            <p></p>
           </div>
         </div>
       </footer>
