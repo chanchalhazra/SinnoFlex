@@ -211,7 +211,7 @@
 
     </div><!-- /.container -->
 
- <div class="container-footer" >
+  <div class="container-footer" >
     <hr style="background-color:#9A7A42; height: 10px; ">
      
           <div class="col-lg-4">
@@ -224,39 +224,44 @@
               <li><small>Focused on Flexibility to Scale</small></li>
               </ul>
           </div>
-     <div class="col-lg-3" style="height: 100px">
+     <div class="col-lg-8">
+    <div >
+    <div class="col-lg-3" style="height: 100px">
                 
-                <ul style="list-style-type: none; color:#ffffff" >           
+                <ul style="list-style-type: none;">           
                 <li><a href="../services.html" style="color:#ffffff">Services</a></li>
-                <li><a href="#customer" style="color:#ffffff">Customers</a></li>
-                <li><a href="#partner" style="color:#ffffff">Partners</a></li>
+                <li><a href="about.html#customer" style="color:#ffffff">Customers</a></li>
+                <li><a href="about.html#partner" style="color:#ffffff">Partners</a></li>
                
     </ul>
      </div>
      <div class="col-lg-3" style="height: 100px">
-       <ul style="list-style-type: none; color:#ffffff" >           
-                <li ><a href="about.html" style="color:#ffffff">About Us</a></li>
+       <ul style="list-style-type: none;">           
+                <li><a href="about.html" style="color:#ffffff">About Us</a></li>
                 <li><a href="career.html" style="color:#ffffff">Career</a></li>
     </ul>
      </div>
-    <div class="col-lg-2" style="height: 100px">
+            <div class="col-lg-2" style="height: 100px">
                 
-        <a href="contact.php" style="color:#ffffff">Contact Us</a>
-        <p> <small><i class="fa fa-phone"></i> <abbr title="Phone">P</abbr>: (925) 833-1148</small>&nbsp;&nbsp;&nbsp;</p>
-         <small> <i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>: <a href="mailto:info@sinnoflex.com" style="color:#ffffff">info@sinnoflex.com</a></small></h1>
+            <a href="contact.php" style="color:#ffffff">Contact Us</a>
+            <p> <small><i class="fa fa-phone"></i> <abbr title="Phone">P</abbr>: (925) 833-1148</small>&nbsp;&nbsp;&nbsp;</p>
+            <small> <i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>: <a href="mailto:info@sinnoflex.com" style="color:#ffffff">info@sinnoflex.com</a></small>
           
-     </div>
-      <footer>
-         <div class="row" style="padding: 2px;">
+            </div>
+         </div>
+      <div>
+        <footer>
+            <div class="row" style="padding: 2px;">
             
-              <div class="col-lg-12">
-            <hr style="background-color:#9A7A42; height: 2px; ">
+            <div class="col-lg-8">
+            <hr style="background-color:#9A7A42; height: 2px; "/>
             <p>Copyright &copy; SinnoFlex 2013</p>
-          </div>
+            </div>
            
-        </div>
-      </footer>
-
+            </div>
+        </footer>
+         </div>
+     </div>
     </div><!-- /.container -->
 
     <!-- JavaScript -->
