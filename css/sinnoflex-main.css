@@ -145,3 +145,8 @@ footer {
 {
     color: #F9F5ee;
 }
+.container-footer {
+height: 200px;
+background-color:  #c09853;
+color:#F9F5EE;
+}
